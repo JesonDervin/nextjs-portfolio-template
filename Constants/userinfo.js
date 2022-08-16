@@ -78,7 +78,7 @@ export const userinfo = {
         description: "", //eg. secured a cgpa of 9.25 in all sems appeared in so far
       },
       {
-        time: "April - August 2015",
+        time: "April - Aug 2015",
         title: "Microprogram First Cycle",
         organization: "Sherbrooke University",
         description: "",
@@ -116,11 +116,11 @@ export const userinfo = {
 export const headings = {
   //you can customise all the headings here.
   workHomePage: "Work",
-  workMainPage: "Projects",
+  workMainPage: "Side Projects",
   skills: "Technical Skills",
   about: "About Me",
   education: "Education",
-  experience: "Experiences",
+  experience: "Professional Experiences",
   blogs: "I write!",
   contact: "Contact Me",
 };
