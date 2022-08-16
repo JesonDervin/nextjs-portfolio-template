@@ -31,7 +31,6 @@ export const userinfo = {
       link: "https://www.linkedin.com/in/jeson-d-ba3625110/",
       icon: faLinkedinIn,
     },
-    { type: "medium", link: "", icon: faMediumM },
   ],
   greeting: {
     //this text goes on your landing page
