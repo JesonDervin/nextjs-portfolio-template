@@ -28,7 +28,7 @@ export const userinfo = {
     },
     {
       type: "linkedin",
-      link: "https://www.linkedin.com/in/jeson-d-ba3625110/",
+      link: "https://www.linkedin.com/in/jeson-dervin/",
       icon: faLinkedinIn,
     },
   ],
